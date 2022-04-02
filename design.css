@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    max-width: 100%;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color: black;   
+}
+a:hover{
+    color: gray;
+}
